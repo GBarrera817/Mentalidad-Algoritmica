@@ -1,0 +1,1 @@
+# Mentalidad-Algoritmica
